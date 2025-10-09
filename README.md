@@ -11,7 +11,7 @@ Antes de começar, certifique-se de que você tem o [Node.js](https://nodejs.org
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://github.com/Chang3MyMind/projeto-teste](https://github.com/Chang3MyMind/projeto-teste)
+    git clone https://github.com/Chang3MyMind/projeto-teste
     ```
 
 2.  **Vá até pasta do projeto:**
